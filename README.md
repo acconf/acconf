@@ -1,2 +1,39 @@
-- Hello,I just push some codes for funny.
-- The codes are composed in past twenty years,maybe.
+👋 ようこそ！
+AIで未来を創る – 私の開発ポートフォリオへ
+こんにちは、私はAI・機械学習・自然言語処理を中心に活動するエンジニアです。
+このGitHubでは、最新の人工知能技術を活用したプロジェクトや、日々の学習・実験の成果を公開しています。
+
+🧠 専門分野 / スキルセット
+機械学習 / Deep Learning
+　PyTorch・TensorFlow・scikit-learnを用いたモデル構築・トレーニング
+　CV（画像認識）・NLP（自然言語処理）・強化学習の実装経験あり
+
+自然言語処理 (NLP)
+　ChatGPT・BERT・LLMのカスタマイズ、文書要約・自動分類・Q&Aシステムの開発
+
+データエンジニアリング
+　pandas・NumPy・SQLなどを用いたデータ前処理、可視化、分析
+
+MLOps / 実運用
+　Docker・FastAPI・Streamlitを用いたAIモデルのデプロイ
+　CI/CD・モデル管理・パフォーマンス最適化
+
+クラウド / インフラ
+　AWS（SageMaker・Lambda）やGCP（Vertex AI）を活用したプロジェクト経験
+
+📌 注目プロジェクト
+🤖 AIチャットボット – GPTベース対話エンジン
+OpenAIのAPIを活用し、カスタム会話フローを持つチャットボットを実装。FAQやナレッジベースとの連携にも対応。
+
+📷 画像認識 × 異常検知
+CNNを用いた製品検査システム。リアルタイムに不良品を検出し、工場ラインにフィードバック。
+
+📝 自動要約・議事録生成ツール
+音声文字起こし＋要約機能を統合し、会議の自動記録・共有を実現。ビジネス現場で活用可能な品質。
+
+🚀 今後の取り組み
+自作LLMのトレーニングと軽量化（LoRA / quantization など）
+
+エッジAI（Jetson / Raspberry Pi）へのモデル展開
+
+オープンソースでの共同開発・貢献
