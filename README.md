@@ -12,3 +12,5 @@ Born in China, living & working in Japan.
    - just make for fun.nothing else.
 6. Python **Since 2018**
    - Yes, it is major now.
+7. Go **Since 2025**
+   - just for fun
